@@ -12,4 +12,4 @@ A chatbot can be used within various media:
 
 A chatbot can mimic a human’s conversational abilities in the sense that it’s programmed to understand written and spoken language and respond correctly.
 
-[https://ideal.com/recruitment-chatbot/](https://ideal.com/recruitment-chatbot/)
+<a href="https://ideal.com/recruitment-chatbot/" target="_blank">link</a>
