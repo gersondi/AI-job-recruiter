@@ -14,12 +14,18 @@ A chatbot can mimic a human’s conversational abilities in the sense that it’
 
 [link](https://ideal.com/recruitment-chatbot/)  
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 #### Description:
 52% of talent acquisition leaders say that the most difficult part of their job is to shortlist the right candidate and 3% of candidates never hear back from a company after one touchpoint. On the flip side, it’s a challenge for employers to communicate well with all their candidates. For high volume recruiting, this would require communicating with thousands of candidates, in addition to a recruiter’s normal screening functions and other duties. Artificial Intelligence enabled software bots can definitely provide a solution for this problem.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### [Planned] solution
 Software Bot enabled with Artificial Intelligence, which screens the candidate application, shortlists for interview and identify his skills & personality traits through conversation.
-----------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### [Planned]Technologies & Tools
 * IBM Watson Assistant 
 * IBM Watson Personality Insights
