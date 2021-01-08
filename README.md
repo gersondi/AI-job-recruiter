@@ -35,6 +35,6 @@ Software Bot enabled with Artificial Intelligence, which screens the candidate a
 * Any Web / Mobile app frameworks
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ### References
-1.https://marutitech.com/14-powerful-chatbot-platforms/
-2.https://chatbotsmagazine.com/how-to-develop-a-chatbot-from-scratch-62bed1adab8c
-3.https://ideal.com/recruitment-chatbot/
+1. https://marutitech.com/14-powerful-chatbot-platforms/
+2. https://chatbotsmagazine.com/how-to-develop-a-chatbot-from-scratch-62bed1adab8c
+3. https://ideal.com/recruitment-chatbot/
