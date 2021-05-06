@@ -1,4 +1,4 @@
-# AI-job-recruiter chatbot
+﻿# AI-job-recruiter chatbot
 A recruitment chatbot – or “conversational agent” – is a software application designed to mimic human conversational abilities during the recruiting process.
 
 Similar to virtual personal assistants such as Alexa, Siri, and Google Now, a recruitment chatbot uses AI technology such as natural language processing to understand a person’s messages and know how to respond.
@@ -27,7 +27,7 @@ Software Bot enabled with Artificial Intelligence, which screens the candidate a
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### [Planned]Technologies & Tools
-* IBM Watson Assistant 
+* IBM Watson® Assistant 
 * IBM Watson Personality Insights
 * Python 2 or 3 
 * IBM Watson Studio
